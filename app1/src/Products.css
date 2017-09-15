@@ -1,0 +1,14 @@
+ul.Products {
+    list-style: none;
+    text-align: left;
+
+}
+
+ul.Products > li.new {
+    color: red;
+    font-size: xx-large;
+}
+
+ul.Products > li.free {
+    color: green;
+}
